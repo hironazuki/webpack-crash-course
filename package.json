@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< Updated upstream
+    "start": "webpack-dev-server --open --mode development"
+=======
     "start": "webpack-dev-server --open --mode develop"
+>>>>>>> Stashed changes
   },
   "repository": {
     "type": "git",
